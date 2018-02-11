@@ -10,6 +10,7 @@ android {
         targetSdkVersion 25
         versionCode 1
         versionName "1.0"
+
     }
     buildTypes {
         release {
@@ -25,3 +26,4 @@ dependencies {
     compile 'com.android.support:design:25.0.1'
     compile 'com.jakewharton:butterknife:7.0.1'
 }
+
